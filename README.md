@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#4EE3C2&height=300&section=header&text=wavesinu&fontSize=90)
-
 ### Hi there 👋
 
 
