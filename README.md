@@ -1,5 +1,6 @@
 ### 👨🏻‍🚀 Activity
 GDSC HUFS 5기
+
 UMC HUFS 6기
 
 ### 🚀Skills
